@@ -1,12 +1,55 @@
-## Hi there 👋
+# STANDOFF – AI-Powered Hostage Negotiation Game
 
-<!--
+**STANDOFF** is an interactive narrative game in development that leverages Large Language Models (LLMs), Speech-to-Text (STT), and Text-to-Speech (TTS) technologies to enable dynamic voice-based interactions with NPCs. The player assumes the role of a police negotiator in a live hostage scenario and must manage the crisis through dialogue, investigation, and press communication.
 
-**Here are some ideas to get you started:**
+This organization serves as the **central hub** for the project, documenting its purpose, architecture, and related submodules and repositories.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📁 Important Repositories
+
+- ### [`Wiki`](https://github.com/beckukoppe/standoff/wiki)
+  The current wiki of the project
+  
+- ### [`stt-llm-tts`](https://github.com/beckukoppe/stt-llm-tts)
+  Repository for dynamic setup of stt and tts
+
+- ### [`stt-llm-tts_demo`](https://github.com/beckukoppe/stt-llm-tts_demo)
+  First Demo of stt to LLM and output with tts
+
+---
+
+## 🧠 Project Overview
+
+### Core Concepts
+
+- **LLM-Controlled NPCs**  
+  NPCs (e.g. criminals, hostages, reporters) are driven by LLMs capable of producing realistic, adaptive dialogue.
+
+- **Voice Interaction**  
+  Players interact with NPCs using natural voice input (STT), while NPCs respond via generated speech (TTS), enabling fully voice-driven gameplay.
+
+- **Narrative Control via AI**  
+  The story evolves dynamically based on player dialogue, psychological state, and investigative progress.
+
+- **Investigative Mechanics**  
+  Players can access in-game systems (e.g. criminal records, hostage profiles) to gather intelligence and shape their negotiation strategy.
+
+- **Media Influence & Stress Mechanics**  
+  Dialogue with reporters impacts the public narrative and the negotiator’s internal stress, influencing available choices.
+
+---
+
+## 🧱 Architecture & Tech Stack
+
+| Component            | Technology                                     |
+|----------------------|------------------------------------------------|
+| Game Engine          | Unity                                         |
+| LLM Backend          | llama.cpp                                     |
+| Speech-to-Text       | Whisper                                       |
+| Text-to-Speech       | CoquiTTS w/ XTTS                              |
+| Language             | Python for demos; C# (Unity)                  |
+
+---
+
+## 📄 License
+
+This project is released under the [MIT License](LICENSE).
