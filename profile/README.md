@@ -34,7 +34,7 @@ This organization serves as the **central hub** for the project, documenting its
   Players can access in-game systems (e.g. criminal records, hostage profiles) to gather intelligence and shape their negotiation strategy.
 
 - **Media Influence & Stress Mechanics**  
-  Dialogue with reporters impacts the public narrative and the negotiator’s internal stress, influencing available choices.
+  Your decicions impacts the public narrative and the negotiator’s internal stress, influencing available choices.
 
 ---
 
