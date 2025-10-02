@@ -1,6 +1,54 @@
 # beckundkoppe
 
 ## TODO
+# Bachelorarbeit Notizen
+
+NPC (LLM) Umgebung wahrnehmen -> Aktionen ausführen (Spiel spielen) -> Mit Player interargieren
+
+- **Wie am besten Warnehmung gestalten?**
+
+  - Schachbrett
+
+  - Memory
+
+- __verschiedene Arten von Charakteren?__
+- **Spieler interaktion**
+  - vollständig echtzeit
+  - langsame bewegung
+  - chatfenster [man hört es im raum]
+
+- **Spiel Zielsetzung?** 
+  - Labyrinth 
+  - Escape-Room
+- **LLM-Bewegung**
+  - Action-Cue mit Taktrate
+
+
+- **passende Visualisierung**
+
+  - Unity
+
+  - Asset Platzierug durch Game-Engine-Editor <-> Backend -> einheitliche Textarbeit
+
+- (Finetuning)
+- **"Wissenschaftlich Untersuchen":**
+  - Performance von Modellen
+  - verschiedene Informationsformate: standortfreie Liste, Schachbrett, simple Entfernungs- und Richtungsangaben
+
+- **Toolcalling mit LLM**:
+  - Light/Heavy Tools (Mind-Tools, Body-Tools)
+  - Budget (nicht wiederholend)
+
+
+
+---
+
+
+
+Wie Bachelorarbeit zusammenschreiben?
+
+Eine große arbeit???
+
 
 
 ## Take a look at
