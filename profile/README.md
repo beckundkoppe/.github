@@ -17,37 +17,39 @@ Bearbeitungsende: 19./20.01.25 (wird noch genau beim Prüfungsamt erfragt)
 - Anwendungsfall konkretisieren
 - Konkrete Modelle heraussuchen
 
-- Kapitel "Begründung des Einsatzes von LLMs" grob schreiben
-- Kapitel "Large Language Modelle" anfangen
+- Kapitel 1 - "Large Language Modelle" grob
+- Kapitel 2 - "Begründung des Einsatzes von LLMs" grob
 
 ## Woche 2+3 (27.10.-10.11.)
 - **Planung + Belege für Implementierung**
 - Grobe Implementierung der "World-Engine"
 
-- Kapitel "Large Language Modelle" fertig schreiben
-- evtl. Methodik schreiben
-  - Tabelle (Quelle, Suchplattform, Suchbegriff)
+- Kapitel 1 - "Large Language Modelle" fertig schreiben
+- Kapitel 2 - "Begründung des Einsatzes von LLMs" fertig schreiben
+- Kapitel 3+4 grob
 
 ## Woche 4+5 (10.11.-24.11.)
 - Fertige Implementierung
 - minimale Implementierung einer Visualisierung
 
-- Kapitel 2+3+4+5 fertig schreiben
+- Kapitel 3+4 fertig schreiben
+- evtl. Methodik schreiben
+  - Tabelle (Quelle, Suchplattform, Suchbegriff)
 
 ## Woche 6+7 (24.11.-08.12.)
 - Benchmarks implementieren und dokumentieren
 - Key Performance Indicators festlegen
 - Vergleiche durchführen
 
-- Kapitel 6 + 7 schreiben
+- Kapitel 5 schreiben
 
 ## Woche 8 (08.12.-15.12.)
 - Vergleiche bewerten
-- Kapitel 8 + 9 (vlt. kann 9 auch vorgezogen werden)
+- Kapitel 6 + 7 (vlt. kann 7 auch vorgezogen werden)
 
 ## Woche 9+10 (15.12.-29.12.)
 - Überarbeiten der Arbeit
-- Kapitel schreiben 10+11+12+13 (leicht)
+- Kapitel schreiben 8 + 9 + 10 +11 (leicht)
 
 ## Woche 11+12 (29.12.-12.01.)
 - letzter Feinschliff
