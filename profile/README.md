@@ -4,68 +4,54 @@
 
 Bearbeitungsbeginn: 20.10.25
 
-Bearbeitungsende: 19./20.01.25 (nochmal erfragen) 
+Bearbeitungsende: 19./20.01.25 (wird noch genau beim Prüfungsamt erfragt) 
 
 ## Woche 1 (20.10.-27.10):
-
 - Zeitplan erstellen
 - Literaturrecherche
   - Togelius - Artificial Intelligence and Games
   - Masterarbeit - Steuerung von NPC
   - und weitere
 - Anwendungsfall konkretisieren
+  - "Mehrwert durch LLM gesteuerten Agenten" in Motivation
 - Konkrete Modelle heraussuchen
-- Erster Entwurf "Mehrwert durch LLM gesteuerten Agenten"
 - Kapitel "Large Language Modelle" anfangen
 
-
-
 ## Woche 2+3 (27.10.-10.11.)
-
 - **Planung + Belege für Implementierung**
-- Grobe Implementierung
+- Grobe Implementierung der "World-Engine"
 - Kapitel "Large Language Modelle" fertig schreiben
 - evtl. Methodik (Quellensuche)
   - Tabelle (Quelle, Suchplattform, Suchbegriff)
 
-
-
 ## Woche 4+5 (10.11.-24.11.)
-
 - Fertige Implementierung
+- minimal Implementierung einer Visualisierung
 - Kapitel 2+3+4+5 fertig schreiben
 
-
-
 ## Woche 6+7 (24.11.-08.12.)
-
 - Benchmarks implementieren und dokumentieren
 - Key Performance Indicators überlegen
 - Kapitel 6 + 7
 - Vergleiche durchführen
 
-
-
 ## Woche 8 (08.12.-15.12.)
-
 - Vergleiche bewerten
 - Kapitel 8 + 9 (vlt. 9 auch vorziehen)
 
-
-
 ## Woche 9+10+ (15.12.-29.12.)
-
 - Überarbeiten der Arbeit
 - Kapitel 10+11+12+13 (leicht)
 
-
-
 ## Woche 11+12 (29.12.-12.01.)
-
+- letzter Feinschliff
 - Pufferzeit 
-- letzte Feinschliffe
+
+## 12.01 - 15.01
 - USB-Stick erstellen
-- Druckerei
+- Drucken
+
+# Abgabe 16. oder 19.01
 
 
 
