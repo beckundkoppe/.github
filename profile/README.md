@@ -33,7 +33,7 @@ Bearbeitungsende: 19./20.01.25 (wird noch genau vom Prüfungsamt bekanntgegeben)
 - minimale Implementierung einer Visualisierung
 
 - Kapitel 3+4 fertig schreiben
-- evtl. Methodik schreiben
+- evtl. schon Methodik vorbereiten
   - Tabelle (Quelle, Suchplattform, Suchbegriff)
 
 ## Woche 6+7 (24.11.-08.12.)
