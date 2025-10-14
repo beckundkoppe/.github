@@ -4,7 +4,7 @@
 
 Bearbeitungsbeginn: 20.10.25
 
-Bearbeitungsende: 19./20.01.25 (wird noch genau beim Prüfungsamt erfragt) 
+Bearbeitungsende: 19./20.01.25 (wird noch genau vom Prüfungsamt bekanntgegeben) 
 
 ## Vorlauf
 - Zeitplan erstellen
