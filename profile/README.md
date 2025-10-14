@@ -39,7 +39,7 @@ Bearbeitungsende: 19./20.01.25 (wird noch genau beim Prüfungsamt erfragt)
 - Vergleiche bewerten
 - Kapitel 8 + 9 (vlt. 9 auch vorziehen)
 
-## Woche 9+10+ (15.12.-29.12.)
+## Woche 9+10 (15.12.-29.12.)
 - Überarbeiten der Arbeit
 - Kapitel 10+11+12+13 (leicht)
 
